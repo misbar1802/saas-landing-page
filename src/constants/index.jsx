@@ -143,8 +143,8 @@ export const features = [
     {
       id: "2",
       title: "Team",
-      priceMonthly: 45,
-      priceYearly: 29,
+      priceMonthly: 40,
+      priceYearly: 25,
       caption: "Exclusively for teams",
       features: [
         "All Overdrive features",
